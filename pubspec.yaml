@@ -1,0 +1,40 @@
+name: dog_app_flutter
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  firebase_auth: ^4.2.5
+  firebase_core: ^2.4.1
+  firebase_ui_auth: ^1.1.14
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.1.0
+  go_router: ^6.0.4
+  google_fonts: ^4.0.3
+  google_maps_flutter: ^2.2.3
+  http: ^0.13.5
+  location: ^4.4.0
+  permission_handler: ^10.2.0
+  provider: ^6.0.5
+  flutter_cache_manager: ^3.2.0
+  geolocator: ^9.0.2
+  flutter_switch: ^0.3.2
+  firebase_database: ^10.0.14
+  package_info: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/logo/
+
+  uses-material-design: true

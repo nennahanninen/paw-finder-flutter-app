@@ -1,0 +1,234 @@
+{
+    "dog_data": [
+        {
+            "markerID": 1,
+            "name": "Hollihaka Dog Park",
+            "position": "65.00796000895332,25.445140474474925",
+            "address": "Rommakkokatu 1, 90120 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 2,
+            "name": "Hupisaaret Dog Park",
+            "position": "65.02044047895932,25.482136486985965",
+            "address": "Kasarmintie 13, 90100 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 3,
+            "name": "Kiskonpuisto Dog Park",
+            "position": "64.99575072232342,25.481507504329272",
+            "address": "Poratie 5, 90150 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 4,
+            "name": "Intiönkangas Dog Park",
+            "position": "65.01526998078509,25.505749158221004",
+            "address": "Kenttätie 22, 90100 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 5,
+            "name": "Mäntylä Dog Park",
+            "position": "64.98276110462662,25.504513495366844",
+            "address": "90160 Oulu"
+        },
+        {
+            "markerID": 6,
+            "name": "Tuira Dog Park (Harri Park)",
+            "position": "65.02629787763154,25.491013772246113",
+            "address": "90500 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 7,
+            "name": "Sienipuisto Dog Park",
+            "position": "65.02656230670645,25.539601651695556",
+            "address": "Vaalantie 73, 90650 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 8,
+            "name": "Muurahaistie Dog Park",
+            "position": "65.03576685903052,25.500190938997708",
+            "address": "90550 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 9,
+            "name": "Toppila Dog Park",
+            "position": "65.04466348018421,25.422456387205514",
+            "address": "Paalikatu, 90520 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 10,
+            "name": "Linnanmaa Dog Park",
+            "position": "65.05373630599505,25.473277082715303",
+            "address": "Linnanmaa, 90570 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 11,
+            "name": "Rusko Dog Park",
+            "position": "65.04772041493533,25.57140841596268",
+            "address": "Konetie 25, 90630 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 12,
+            "name": "Viklapuisto Dog Park",
+            "position": "65.07097935865976,25.50776594420221",
+            "address": "Kalikkatie 27, 90540 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 13,
+            "name": "Rajakylä Dog Park",
+            "position": "65.06855242877737,25.430392983087515",
+            "address": "90580 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 14,
+            "name": "Heikkeliini Dog Park",
+            "position": "65.09420471559501,25.414384657253716",
+            "address": "90800 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 15,
+            "name": "Oulu Dog Forest",
+            "position": "65.1483985355383,25.322178197269626",
+            "address": "Topinperäntie 101, 90820 Oulu",
+            "details": "Dog Forest"
+        },
+        {
+            "markerID": 16,
+            "name": "Oulu Dog Forest",
+            "position": "65.14387396709556,25.436805651953485",
+            "address": "Lintumaansuontie 411, 90820 Kello",
+            "details": "Dog Forest"
+        },
+        {
+            "markerID": 17,
+            "name": "Hakomäki Dog Park",
+            "position": "65.12558184896987,25.75104026793071",
+            "address": "Hakopuuntie 6, 90900 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 18,
+            "name": "Oulunsalo, Pellonpää Dog Park",
+            "position": "64.93603316054134,25.38260936057871",
+            "address": "Peltovainiontie, 90460 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 19,
+            "name": "Lehtometsä Dog Park",
+            "position": "64.9442301462695,25.54022626325228",
+            "address": "Hartsuneidintie 13, 90420 Oulu",
+            "details": "Dog Park"
+        },
+        {
+            "markerID": 20,
+            "name": "Rommakkopuisto",
+            "position": "65.0043009643109,25.457523291705176",
+            "address": "Rommakkokatu 18, 90120 Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 21,
+            "name": "Tullikirjurinraitti",
+            "position": "65.00510352647476,25.47218615121497",
+            "address": "Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 22,
+            "name": "Rautatienkatu",
+            "position": "65.00581416499838,25.475328182783176",
+            "address": "Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 23,
+            "name": "Lyötynpuisto",
+            "position": "65.00857741323652,25.475900127036525",
+            "address": "Arkistokatu 4, 90100 Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 24,
+            "name": "Kuusiluodonranta",
+            "position": "65.01114630049388,25.45833494134207",
+            "address": "Saunaranta, Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 25,
+            "name": "Nokkospuisto",
+            "position": "64.99836000709612,25.497682741745518",
+            "address": "Joutsentie, Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 26,
+            "name": "Yrjö Kallisen puisto",
+            "position": "65.0061412156284,25.48188485587193",
+            "address": "90140 Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 27,
+            "name": "Laanaojan polku",
+            "position": "65.00646334047958,25.492607393326942",
+            "address": "Urheilukatu, Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 28,
+            "name": "Lintulammentie",
+            "position": "64.98895412863841,25.491520499984226",
+            "address": "Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 29,
+            "name": "Pikkukankaanpuisto",
+            "position": "65.01122371464089,25.494900048013136",
+            "address": "Pikkukankaantie, Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 30,
+            "name": "Nahkurintori",
+            "position": "65.01850148647546,25.486075211462307",
+            "address": "Nahkatehtaankatu, Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 31,
+            "name": "Kiikkusaari",
+            "position": "65.01861777271694,25.47549848181142",
+            "address": "Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 32,
+            "name": "Koskitie",
+            "position": "65.02365003944774,25.46962727957361",
+            "address": "Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        },
+        {
+            "markerID": 33,
+            "name": "Värtönranta",
+            "position": "65.01823700616723,25.52394722850986",
+            "address": "Kasarmintie 53, 90230 Oulu",
+            "details": "Dog Poo Bag Dispenser"
+        }
+    ]
+}

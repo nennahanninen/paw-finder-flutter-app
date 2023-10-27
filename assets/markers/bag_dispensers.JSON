@@ -1,0 +1,88 @@
+{
+    "bag_dispensers": [
+        {
+            "markerID": 1,
+            "name": "Rommakkopuisto",
+            "position": "65.0043009643109,25.457523291705176",
+            "address": "Rommakkokatu 18, 90120 Oulu"
+        },
+        {
+            "markerID": 2,
+            "name": "Tullikirjurinraitti",
+            "position": "65.00510352647476,25.47218615121497",
+            "address": "Oulu"
+        },
+        {
+            "markerID": 3,
+            "name": "Rautatienkatu",
+            "position": "65.00581416499838,25.475328182783176",
+            "address": "Oulu"
+        },
+        {
+            "markerID": 4,
+            "name": "Lyötynpuisto",
+            "position": "65.00857741323652,25.475900127036525",
+            "address": "Arkistokatu 4, 90100 Oulu"
+        },
+        {
+            "markerID": 5,
+            "name": "Kuusiluodonranta",
+            "position": "65.01114630049388,25.45833494134207",
+            "address": "Saunaranta, Oulu"
+        },
+        {
+            "markerID": 6,
+            "name": "Nokkospuisto",
+            "position": "64.99836000709612,25.497682741745518",
+            "address": "Joutsentie, Oulu"
+        },
+        {
+            "markerID": 7,
+            "name": "Yrjö Kallisen puisto",
+            "position": "65.0061412156284,25.48188485587193",
+            "address": "90140 Oulu"
+        },
+        {
+            "markerID": 8,
+            "name": "Laanaojan polku",
+            "position": "65.00646334047958,25.492607393326942",
+            "address": "Urheilukatu, Oulu"
+        },
+        {
+            "markerID": 9,
+            "name": "Lintulammentie",
+            "position": "64.98895412863841,25.491520499984226",
+            "address": "Oulu"
+        },
+        {
+            "markerID": 10,
+            "name": "Pikkukankaanpuisto",
+            "position": "65.01122371464089,25.494900048013136",
+            "address": "Pikkukankaantie, Oulu"
+        },
+        {
+            "markerID": 11,
+            "name": "Nahkurintori",
+            "position": "65.01850148647546,25.486075211462307",
+            "address": "Nahkatehtaankatu, Oulu"
+        },
+        {
+            "markerID": 12,
+            "name": "Kiikkusaari",
+            "position": "65.01861777271694,25.47549848181142",
+            "address": "Oulu"
+        },
+        {
+            "markerID": 13,
+            "name": "Koskitie",
+            "position": "65.02365003944774,25.46962727957361",
+            "address": "Oulu"
+        },
+        {
+            "markerID": 14,
+            "name": "Värtönranta",
+            "position": "65.01823700616723,25.52394722850986",
+            "address": "Kasarmintie 53, 90230 Oulu"
+        }
+    ]
+}

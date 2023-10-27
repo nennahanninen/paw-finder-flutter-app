@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "317790556374",
+    "project_id": "dog-app-flutter",
+    "storage_bucket": "dog-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317790556374:android:d32fd264c49e2d4871b977",
+        "android_client_info": {
+          "package_name": "com.example.dog_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317790556374-k1n084sdo4d5pamaaumgu0qiom2mlul4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9n6vpdcv8x1_8fhJ1a9T8nPPY3rh2Da4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317790556374-k1n084sdo4d5pamaaumgu0qiom2mlul4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317790556374-fhhqic7vr4d63fmpfk3vjieifjc5734h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dogApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
